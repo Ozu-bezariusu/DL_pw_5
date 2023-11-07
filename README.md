@@ -34,5 +34,5 @@ input := []byte("some text to hash")
 sum := mysha1.Sum(input)
 ```
 
-## Example
+## Tests
 ![Alt text](image.png)
