@@ -21,7 +21,7 @@ cd DL_pw_5
 go build
 ```
 ```bash
-./dl_pw_5
+./DL_pw_5
 ```
 
 ## Usage 
